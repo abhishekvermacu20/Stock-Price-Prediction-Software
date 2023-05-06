@@ -1,0 +1,22 @@
+[
+  { "index": 1, "Close": "50.972", "Predictions": 49.33951950073242 },
+  { "index": 2, "Close": "50.708", "Predictions": 50.050540924072266 },
+  { "index": 3, "Close": "51.636002", "Predictions": 50.57312774658203 },
+  { "index": 4, "Close": "51.136002", "Predictions": 51.063175201416016 },
+  { "index": 5, "Close": "52.034", "Predictions": 51.373470306396484 },
+  { "index": 6, "Close": "52.976002", "Predictions": 51.68303298950195 },
+  { "index": 7, "Close": "45.764", "Predictions": 52.08699035644531 },
+  { "index": 8, "Close": "45.608002", "Predictions": 51.31787872314453 },
+  { "index": 9, "Close": "47.153999", "Predictions": 50.058841705322266 },
+  { "index": 10, "Close": "48.452", "Predictions": 48.991416931152344 },
+  { "index": 11, "Close": "48.321999", "Predictions": 48.3888053894043 },
+  { "index": 12, "Close": "46.77", "Predictions": 48.092376708984375 },
+  { "index": 13, "Close": "46.868", "Predictions": 47.75333023071289 },
+  { "index": 14, "Close": "45.664001", "Predictions": 47.47098922729492 },
+  { "index": 15, "Close": "46.150002", "Predictions": 47.075714111328125 },
+  { "index": 16, "Close": "46.683998", "Predictions": 46.77188491821289 },
+  { "index": 17, "Close": "47.66", "Predictions": 46.65253448486328 },
+  { "index": 18, "Close": "47.001999", "Predictions": 46.80610656738281 },
+  { "index": 19, "Close": "45.801998", "Predictions": 46.97193145751953 },
+  { "index": 20, "Close": "47.0", "Predictions": 46.93214797973633 }
+]
